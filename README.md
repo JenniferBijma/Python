@@ -1,5 +1,5 @@
 # Python
-My Python code for CareerFoundry's Data Analyst Program, using InstaCart's data (some of which was manipulated for the purpose of this program)  to answer the following questions:
+My Python scripts for CareerFoundry's Data Analyst Program, using InstaCart's data (some of which was manipulated for the purpose of this program)  to answer the following questions:
 
 The sales team needs to know what the busiest days of the week and hours of the
 day are (i.e., the days and times with the most orders) in order to schedule ads at
